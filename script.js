@@ -261,7 +261,7 @@ function renderTeamList() {
       name: "최정빈", 
       img: "https://avatars.githubusercontent.com/u/202569352?v=4",
       github: "https://github.com/Choejungbeen",
-      portfolio: "https://hyk-portfolio.vercel.app/"
+      portfolio: "https://et-zeta.vercel.app/"
     },
     { 
       name: "신준혁", 
